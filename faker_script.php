@@ -1,6 +1,6 @@
 <?php
-require_once '/home/ashish/slim_example1/vendor/fzaninotto/faker/src/autoload.php';
-require '/home/ashish/slim_example1/templates/connect.php';
+require_once '/path/to/vendor/fzaninotto/faker/src/autoload.php';
+require '/database/connectivity/connect.php';
 
 
 
